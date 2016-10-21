@@ -1,0 +1,4 @@
+# Python requirements
+requests
+facebook-sdk # Facebook SDK http://facebook-sdk.readthedocs.io/
+pprintpp
