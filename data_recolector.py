@@ -12,7 +12,7 @@ print 'Argument 2:', sys.argv[1]
 
 group_id = sys.argv[1]
 
-access_token = "EAACEdEose0cBAI5cJuSU8BCGiliHYa1J8kNJN0608AEZCHkTjVt0MvPoagSpC9ZAkbt1vkjdroQYDMcyondYepYS5ZA78WvmODWZAoyZAOfuu7GeXTPSWiZBuomYxNMrO8RrIr9rKxghqSHYlMheepqGfCLZAUhomYEljZCgYANJYAZDZD"
+access_token = ""
 version = "2.4"
 
 graph = facebook.GraphAPI(access_token, version)
